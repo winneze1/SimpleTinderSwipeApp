@@ -32,6 +32,7 @@ dependencies:
   provider:
   dio:
   cached_network_image: ^3.1.0
+  platform: ^3.1.0
 
 dev_dependencies:
   flutter_test:
